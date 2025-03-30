@@ -58,9 +58,12 @@ section {
 }
 .welcome-container {
     background-color: #000;
+    background-image: url('https://cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/HRZXJCKEPVCTNCLTH4QLO6YM2I.jpg');
+    background-size: cover;
+    background-position: end;
+    background-repeat: no-repeat;
     height: 700px;
     padding: 100px 0;
-    background: radial-gradient(circle, #b49970 0%, #4e3620 0%, #000000 100%);
 }
 .welcome-image {
     width: 950px;
